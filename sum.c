@@ -1,8 +1,8 @@
 #include<stdio.h>
-int main(void)
+int main()
 {
-	int n=2,i,sum=0;
-	for(i=1;i<=n;i++)
+	int a=2,i,sum=0;
+	for(i=1;i<=a;i++)
 	{
 		sum=sum+i;
 	}
